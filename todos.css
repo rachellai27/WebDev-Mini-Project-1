@@ -1,0 +1,11 @@
+.container{
+	margin-top: 50px;
+	text-align: center;
+	width: 500px;
+}
+
+li{
+	width: 200px;
+	text-align: left;
+	margin: auto;
+}
